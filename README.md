@@ -6,4 +6,4 @@ My hackstage-jw.svg is derivative work from his designs.
 http://hackteria.org/wiki/DIY_microscopy
 
 Further References
-* https://micro-manager.org/
+* https://micro-manager.org/ (open source microscopy software. Officially only Windows+Mac, but Linux support seems to be on github too)
