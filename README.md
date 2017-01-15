@@ -1,4 +1,4 @@
-# DIY-Microscope
+# DIY-Microscope aka FABroscope
 A cheap webcam converted into a microscope with a lasercut stage assembly.
 
 Workshop idea from Marc "Dusjagr" Dusseiller - most of the credit goes to him. 
