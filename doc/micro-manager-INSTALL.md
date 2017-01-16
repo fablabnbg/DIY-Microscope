@@ -1,8 +1,8 @@
 ## Linux Mint 18.1
 
-Study https://github.com/micro-manager/micro-manager/blob/master/doc/how-to-build.md and 
-https://micro-manager.org/wiki/Linux_installation_from_source_(Ubuntu)
-
+Study 
+* https://github.com/micro-manager/micro-manager/blob/master/doc/how-to-build.md <br>
+* https://micro-manager.org/wiki/Linux_installation_from_source_(Ubuntu)
 
 <pre>
 apt install openjdk-9-jdk
