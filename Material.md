@@ -11,4 +11,5 @@ Material
 - Objektträger + Deckglas
 - 1x Zwillingslizze 20cm
 - Webcam search "Megapixel" and/or "6 LED Webcam"
+  * https://www.aliexpress.com/item/YOC-Hot-USB-30-0M-6-LED-Webcam-Camera-Web-Cam-With-Mic-for-Desktop-PC/32689246716.html
   * https://de.aliexpress.com/item/USB-30M-HD-Camera-with-Microphone-30-Mega-Pixel-Web-Cam-6-LED-HD-Webcam-Camera/1639882050.html
